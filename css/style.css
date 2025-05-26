@@ -436,3 +436,13 @@ h6,
 .footer .footer-menu a:hover {
     color: var(--secondary);
 }
+
+.footer .copyright {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 14px;
+}
+#newsletterMessage {
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
